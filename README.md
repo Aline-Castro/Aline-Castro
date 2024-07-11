@@ -9,9 +9,6 @@
   - Telefone: (37) 99136 1349
   - Endereço: Divinópolis, Minas Gerais
 
-### **Objetivo Profissional:**
-Buscar uma posição como **Cientista de Dados** onde possa aplicar minhas habilidades técnicas e estratégicas, contribuindo para os processos de tomada de decisão baseados em dados da empresa.
-
 ### **Formação:**
 - Pós-graduação em Tecnologia da Informação, INEX (2024)
 - Curso profissionalizante em Ciência de Dados, EBAC (2024)
