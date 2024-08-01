@@ -10,9 +10,9 @@
   - Endereço: Divinópolis, Minas Gerais
 
 ### **Formação:**
-- Pós-graduação em Tecnologia da Informação, INEX (2024)
-- Curso profissionalizante em Ciência de Dados, EBAC (2024)
-- Graduação em Engenharia Elétrica, UFSJ (2016)
+- Pós-graduação em Tecnologia da Informação (2024)
+- Curso profissionalizante em Ciência de Dados (2024)
+- Graduação em Engenharia Elétrica (2016)
 
 ### **Experiência Profissional:**
 #### **Analista de Dados, Observatório Social do Brasil, São Paulo, SP (2023 - Atual)**
