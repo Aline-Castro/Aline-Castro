@@ -6,7 +6,7 @@
 ### Cientista de Dados (Data Scientist)
 - **Contato:**
   - E-mail: castro.santos.aline@gmail.com
-  - Telefone: (37) 99136 1349
+  - Telefone/Whastapp: (37) 99136 1349
   - Endereço: Divinópolis, Minas Gerais
 
 ### **Formação:**
