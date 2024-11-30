@@ -10,6 +10,7 @@
   - Endereço: Divinópolis, Minas Gerais
 
 ### **Formação:**
+- MBA em Data Science e Analytics (2026)
 - Pós-graduação em Tecnologia da Informação (2024)
 - Curso profissionalizante em Ciência de Dados (2024)
 - Graduação em Engenharia Elétrica (2016)
